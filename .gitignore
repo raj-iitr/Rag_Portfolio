@@ -1,0 +1,10 @@
+# Python and environment-related
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and configuration
+.env
+
+# Misc
+documents/
